@@ -34,6 +34,7 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
+### Day 16: February 23, 2021
 - I worked on two mini projects with video playback triggered by scrolling for Day 16. 
 
 - See <a href="https://github.com/emjose/video-scroll-two/#header">second video project</a>.
