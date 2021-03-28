@@ -34,7 +34,9 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+- I worked on two mini projects with video playback triggered by scrolling for Day 16. 
+
+- See <a href="https://github.com/emjose/video-scroll-two/#header">second video project</a>.
 
 #
 
@@ -57,7 +59,7 @@ open index.html
 
 <a href="https://emjose.github.io/video-scroll-one/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/video-scroll-one/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/video-scroll-one/">![Live Site](Assets/016-timessq.gif)</a>
 
 #
 
@@ -65,7 +67,13 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [Sticky-js on Github](https://github.com/rgalus/sticky-js)
+
+- #### [Sticky-js](https://rgalus.github.io/sticky-js/) by [Rafal Galus](https://github.com/rgalus)
+
+- #### [Play Video on Scroll Tutorial](https://youtu.be/4LoDqlKMats) by [Technical Tuts 4u](https://www.youtube.com/channel/UCeDbQlQY8jP9wGmBaVWhHMA)
+
+- #### [Scroll-based HTML5 Video Tutorial](https://youtu.be/HiegEfkenXA) by [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 
 #
 
