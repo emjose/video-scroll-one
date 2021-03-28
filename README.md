@@ -67,9 +67,9 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-- #### [Sticky-js on Github](https://github.com/rgalus/sticky-js)
+- #### [Sticky.js on Github](https://github.com/garand/sticky)
 
-- #### [Sticky-js](https://rgalus.github.io/sticky-js/) by [Rafal Galus](https://github.com/rgalus)
+- #### [Sticky.js](http://stickyjs.com/) by [Anthony Garand](https://github.com/garand)
 
 - #### [Play Video on Scroll Tutorial](https://youtu.be/4LoDqlKMats) by [Technical Tuts 4u](https://www.youtube.com/channel/UCeDbQlQY8jP9wGmBaVWhHMA)
 
