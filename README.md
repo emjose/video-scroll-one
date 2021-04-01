@@ -76,6 +76,8 @@ open index.html
 
 - #### [Scroll-based HTML5 Video Tutorial](https://youtu.be/HiegEfkenXA) by [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 
+- #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
+
 #
 
 <p id="lets-connect"><p>
