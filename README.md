@@ -48,13 +48,13 @@
 
 #### Git clone and cd into the repo folder:
 
-```
+```console
 git clone git@github.com:emjose/video-scroll-one.git && cd video-scroll-one
 ```
 
 #### Run the command:
 
-```
+```console
 open index.html
 ```
 
